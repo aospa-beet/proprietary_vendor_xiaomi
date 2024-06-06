@@ -439,6 +439,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/diting/proprietary/vendor/etc/df_default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/df_default.xml \
     vendor/xiaomi/diting/proprietary/vendor/etc/display/qdcm_calib_data_xiaomi_36_02_0b_mp_cmd_mode_dsc_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_xiaomi_36_02_0b_mp_cmd_mode_dsc_dsi_panel.json \
     vendor/xiaomi/diting/proprietary/vendor/etc/display/qdcm_calib_data_xiaomi_42_02_0a_mp_cmd_mode_dsc_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_xiaomi_42_02_0a_mp_cmd_mode_dsc_dsi_panel.json \
+    vendor/xiaomi/diting/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
     vendor/xiaomi/diting/proprietary/vendor/etc/dolby_vision.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/dolby_vision.cfg \
     vendor/xiaomi/diting/proprietary/vendor/etc/init/hw/init.batterysecret.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/hw/init.batterysecret.rc \
     vendor/xiaomi/diting/proprietary/vendor/etc/init/vendor.qti.camera.provider@2.7-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider@2.7-service_64.rc \
